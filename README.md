@@ -10,7 +10,7 @@
 
 **stack**
 
-- `c` `c++` `python` `javascript` `bash`
+- `c` `c++` `rust` `go` `python` `javascript` `bash` `powershell` `x86 asm`
 - `windows` `linux`
 - `x64dbg` `ida` `ghidra` `wireshark` `docker`
 
