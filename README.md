@@ -1,12 +1,12 @@
-> offensive security · malware research · low level development
+> offensive security · malware research · high level development
 
 ---
 
 **focus**
 
 - malware research & reverse engineering
-- red team tooling & windows internals
-- low level programming & automation
+- red team tooling & windows/linux internals
+- high level programming & automation
 
 **stack**
 
@@ -22,7 +22,7 @@
 
 - custom tooling & automation scripts
 - reversing labs & security research
-- infrastructure experiments
+- exploitments & offensive tools
 
 ---
 
