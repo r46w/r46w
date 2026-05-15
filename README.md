@@ -1,4 +1,4 @@
-![banner](./r46w_banner.svg)
+![banner](./banner.svg)
 
 ---
 
