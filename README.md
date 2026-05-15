@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" />
+  <img src="./icl.svg" />
 </div>
 
 <p align="center">reverse engineering · red team · internals</p>
