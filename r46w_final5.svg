@@ -1,0 +1,19 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=Syne:wght@800&display=swap');
+    </style>
+  </defs>
+
+  <!-- Ghost background -->
+  <text x="-8" y="112" font-family="'Syne', 'Arial Black', sans-serif" font-weight="800" font-size="130" fill="#888888" fill-opacity="0.35" letter-spacing="2">r46w</text>
+
+  <!-- Name -->
+  <text x="52" y="66" font-family="'IBM Plex Mono', 'Courier New', monospace" font-weight="500" font-size="20" fill="#111111" letter-spacing="10">r46w</text>
+
+  <!-- Thin separator line -->
+  <line x1="52" y1="78" x2="320" y2="78" stroke="#222222" stroke-width="0.5"/>
+
+  <!-- Tag line -->
+  <text x="52" y="92" font-family="'IBM Plex Mono', 'Courier New', monospace" font-weight="500" font-size="8" fill="#111111" letter-spacing="4">offensive security · malware research</text>
+</svg>
