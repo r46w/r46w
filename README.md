@@ -1,4 +1,4 @@
-> offensive security · malware research · high level development
+![banner](./banner.svg)
 
 ---
 
