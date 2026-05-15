@@ -1,4 +1,4 @@
-![banner](./baner.svg)
+![banner](./banerr.svg)
 
 <p align="center">reverse engineering · red team · internals</p>---
 
