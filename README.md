@@ -1,5 +1,6 @@
 ![banner](./r46w.svg)
 
+reverse engineering · red team · internals
 ---
 
 **focus**
