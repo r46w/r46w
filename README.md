@@ -1,7 +1,6 @@
 ![banner](./r46w.svg)
 
-`reverse engineering` · `red team` · `internals`
----
+<p align="center">reverse engineering · red team · internals</p>---
 
 **focus**
 
