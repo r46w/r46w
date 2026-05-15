@@ -1,4 +1,6 @@
-![banner](./icl.svg)
+<div align="center">
+  <img src="./banner.svg" />
+</div>
 
 <p align="center">reverse engineering · red team · internals</p>
 
